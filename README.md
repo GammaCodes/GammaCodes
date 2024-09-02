@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Jahdo, a passionate Data Scientist and Machine Learning Enthusiast. Currently pursuing a Master's degree in Data Science and Artificial Intelligence at the University of Liverpool, I learning predictive modeling, data analysis, and building AI-driven applications.
+My name is Jahdo, and I am a dedicated data scientist with a strong passion for machine learning. I am presently undertaking a Master's degree in Data Science and Artificial Intelligence at the University of Liverpool. Throughout my studies, I am acquiring knowledge in predictive modeling, data analysis, and the development of AI-driven applications.
 
 ### 👷🏾 Projects
 
