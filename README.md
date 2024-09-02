@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**GammaCodes/GammaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jahdo, a passionate Data Scientist and Machine Learning Enthusiast. Currently pursuing a Master's degree in Data Science and Artificial Intelligence at the University of Liverpool, I learning predictive modeling, data analysis, and building AI-driven applications.
 
-Here are some ideas to get you started:
+### 👷🏾 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+
+### 🛠 Skills and Technologies
+
+- **Languages:** Python, SQL
+- **Tools:** Git, Jupyter Notebooks
+- **Specializations:**
+
+### 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jahdo-vanterpool/)
+
+I'm always open to collaborating on exciting projects, discussing innovative ideas, or just having a chat about tech!
+
+
+
