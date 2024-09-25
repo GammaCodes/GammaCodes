@@ -4,7 +4,8 @@ My name is Jahdo, and I am a dedicated data scientist with a strong passion for 
 
 ### 👷🏾 Projects
 
-- 
+- [100 Days of Coding with Python](https://github.com/GammaCodes/100-Days-Of-Coding-With-Python)
+
 
 ### 🛠 Skills and Technologies
 
